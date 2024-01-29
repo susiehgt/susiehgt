@@ -7,6 +7,7 @@ Hi, my name is Susie. I am a bioinformatician learning web development and softw
   <h2>Languages</h2>
   <p>The programming langages I aim to master are HTML, CSS, Javascript and Python. 
   I also code in Java, C++ and R.  </p>
+  <i>Please note that the following graph only shows the languages of my public projects</i>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&layout=compact&theme=darcula">
