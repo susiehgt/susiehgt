@@ -1,8 +1,9 @@
 # Welcome to my Github page! 👋🏻
 <img src="https://github.com/susiehgt/susiehgt/blob/main/IMG_3565.png" width=300px>
 
-<h2>Introduction</h2>
+<h2 align="center">Introduction</h2>
 Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
+
 
 <br>
 <div align="center">
