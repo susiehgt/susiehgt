@@ -14,6 +14,7 @@ Hi, my name is Susie. I am a bioinformatician learning web development and softw
 <div align="center">
   <i>Please note that the following graph only shows the languages of my public projects</i>
 </div>
+<br>
 
 This GitHub is a repository of multiple projects I have been part of and aim to demonstrate 
 the knoledge I acquired during my university years. 
