@@ -1,5 +1,5 @@
 # Welcome to my Github page
-<img src="https://github.com/susiehgt/susiehgt/blob/main/IMG_3565.png" width=50px>
+<img src="https://github.com/susiehgt/susiehgt/blob/main/IMG_3565.png" width=300px>
 
 <br>
 <h2 align="center">Introduction</h2>
