@@ -34,7 +34,9 @@ the knoledge I acquired during my university years.  </p>
 <br>
 <br>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/369de1d8b71cd2b29032dd29753b74e5f1124ec1/resources/img/grid-snake.svg">
+</div>
 
 <i>Widgets credits to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
 
