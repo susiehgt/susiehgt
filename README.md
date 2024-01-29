@@ -10,7 +10,6 @@
   
   You can check on my website at https://susiehgt.github.io/
 </div>
-
 <br>
 <div align="center">
   <h2>Languages</h2>
