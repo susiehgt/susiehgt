@@ -5,7 +5,7 @@ Hi, my name is Susie. I am a bioinformatician learning web development and softw
 
 The programming langages I aim to master are HTML, CSS, Javascript and Python. 
 I also code in Java, C++ and R. 
-https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&theme=darcula
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&layout=compact)
 
 This GitHub is a repository of multiple projects I have been part of and aim to demonstrate 
 the knoledge I acquired during my university years. 
