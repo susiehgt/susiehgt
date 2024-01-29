@@ -9,7 +9,7 @@ I also code in Java, C++ and R.
 
 <br>
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green](https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&layout=compact&theme=darcula)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&layout=compact&theme=darcula">
 </div>
 <br>
 
