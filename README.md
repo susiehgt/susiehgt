@@ -1,7 +1,14 @@
-- Hi, I’m Susie
-- I’m interested in bioinformatics
-- I’m currently learning Python, Java, C++ and web development 
-- You can consult my website: susiehgt.github.io
+Hi, my name is Susie. I am a bioinformatician learning web development and software engineering. 
+The programming langages I aim to master are HTML, CSS, Javascript and Python. 
+I also code in Java, C++ and R. 
+
+This GitHub is a repository of multiple projects I have been part of and aim to demonstrate 
+the knoledge I acquired during my university years. 
+
+You can check on my website located at: https://susiehgt.github.io/
+
+Have a nice day!
+
 
 <!---
 susiehgt/susiehgt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
