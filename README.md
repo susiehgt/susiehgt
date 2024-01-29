@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=E97451%0A&size=25&center=true&vCenter=true&width=433&height=75&lines=Welcome+to+my+GitHub;%40susiehgt">
 </div>
 <div align="center">
-<h2 align="center" color="E97451">Introduction</h2>
+<FONT COLOR="#ff0000">
+<h2 align="center">Introduction</h2>
+   </FONT>
   Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
 
   
