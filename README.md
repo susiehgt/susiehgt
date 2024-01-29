@@ -35,7 +35,7 @@ the knoledge I acquired during my university years.  </p>
 </div>
 <br>
 
-<i>Widgets credits to @anuraghazra</i>
+<i>Widgets credits to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
 
 <!---
 susiehgt/susiehgt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
