@@ -33,9 +33,9 @@ the knoledge I acquired during my university years.  </p>
   <img src="https://github-readme-stats.vercel.app/api?username=susiehgt&theme=darcula">
 </div>
 </div>
+<br>
 
-
-Have a nice day!
+<i>Widgets credits to @anuraghazra</i>
 
 <!---
 susiehgt/susiehgt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
