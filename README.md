@@ -1,5 +1,8 @@
 # Welcome
 
+<br>
+<h2 align="center">Introduction</h2>
+
 Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
 
 <br>
