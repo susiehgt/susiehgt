@@ -28,7 +28,7 @@
 the knoledge I acquired during my university years.  </p>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=susiehgt&theme=darcula">
+    <img src="https://github-readme-stats.vercel.app/api?username=susiehgt&hide_border=true&theme=darcula">
   </div>
 </div>
 <br>
