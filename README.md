@@ -15,7 +15,7 @@
   I also code in Java, C++ and R.  </p>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&layout=compact&theme=darcula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&hide_border=true&layout=compact&theme=darcula">
 </div>
 <div align="center">
   <i>Please note that the following graph only shows the languages of my public projects</i>
