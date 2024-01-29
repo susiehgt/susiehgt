@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=E97451%0A&size=25&center=true&vCenter=true&width=433&height=75&lines=Welcome+to+my+GitHub;%40susiehgt">
 </div>
 <div align="center">
-<FONT COLOR="#ff0000">
 <h2 align="center">Introduction</h2>
-   </FONT>
   Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
 
   
@@ -35,6 +33,8 @@ the knoledge I acquired during my university years.  </p>
 </div>
 <br>
 <br>
+
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/369de1d8b71cd2b29032dd29753b74e5f1124ec1/resources/img/grid-snake.svg">
 
 <i>Widgets credits to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
 
