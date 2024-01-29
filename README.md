@@ -32,6 +32,7 @@ the knoledge I acquired during my university years.  </p>
   </div>
 </div>
 <br>
+<br>
 
 <i>Widgets credits to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
 
