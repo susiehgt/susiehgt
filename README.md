@@ -7,7 +7,7 @@ The programming langages I aim to master are HTML, CSS, Javascript and Python.
 I also code in Java, C++ and R. 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susiehgt&layout=compact&theme=darcula)
 
 
 This GitHub is a repository of multiple projects I have been part of and aim to demonstrate 
