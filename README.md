@@ -1,3 +1,5 @@
+<div id="header" align="center> Welcome </div>
+
 Hi, my name is Susie. I am a bioinformatician learning web development and software engineering. 
 The programming langages I aim to master are HTML, CSS, Javascript and Python. 
 I also code in Java, C++ and R. 
