@@ -7,11 +7,11 @@
   <h2 align="center">Introduction</h2>
   Hi, my name is Susie. I am a bioinformatician learning web development and
   software engineering.
-  <br />
+  <br>
 
   You can check on my [website](https://susiehgt.github.io/)
 </div>
-<br />
+<br>
 <div align="center">
   <h2>Languages used</h2>
   <p>
@@ -30,7 +30,7 @@
     projects</i
   >
 </div>
-<br />
+<br>
 
 <div align="center">
   <h2>Projects</h2>
@@ -45,8 +45,8 @@
     />
   </div>
 </div>
-<br />
-<br />
+<br>
+<br>
 
 <div align="center">
   <img
@@ -54,18 +54,13 @@
   />
 </div>
 
-<br />
+<br>
 
-<i
-  >Widgets credits to
-  [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i
->
-<br />
+<i>Widgets credits to
+  [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
+<br>
 
-<i
-  >Snake gif credits to
-  [@1999AZZAR](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)</i
->
+<i>Snake gif credits to [@1999AZZAR](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)</i>
 
 <!---
 susiehgt/susiehgt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
