@@ -2,13 +2,11 @@
 
 Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
 
-
-The programming langages I aim to master are HTML, CSS, Javascript and Python. 
-I also code in Java, C++ and R. 
-
 <br>
 <div align="center">
-  <h2>My most used programming languages</h2>
+  <h2>Languages</h2>
+  <p>The programming langages I aim to master are HTML, CSS, Javascript and Python. 
+  I also code in Java, C++ and R.  </p>
 </div>
 <br>
 <br>
