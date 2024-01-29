@@ -41,8 +41,8 @@ the knoledge I acquired during my university years.  </p>
 <br>
 
 <i>Widgets credits to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
-
 <br>
+
 <i>Snake gif credits to [@1999AZZAR](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)</i>
 
 
