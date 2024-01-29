@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <h2 align="center">Introduction</h2>
-  Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
+ ! Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
 
   
   You can check on my [website](https://susiehgt.github.io/)
