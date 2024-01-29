@@ -16,8 +16,11 @@ Hi, my name is Susie. I am a bioinformatician learning web development and softw
 </div>
 <br>
 
-This GitHub is a repository of multiple projects I have been part of and aim to demonstrate 
-the knoledge I acquired during my university years. 
+<div align="center">
+  <h2>Projects</h2>
+  <p>This GitHub is a repository of multiple projects I have been part of and aim to demonstrate 
+the knoledge I acquired during my university years.  </p>
+</div>
 
 You can check on my website located at: https://susiehgt.github.io/
 
