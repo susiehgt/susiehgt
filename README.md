@@ -6,6 +6,7 @@
 <div align="center">
 <h2 align="center">Introduction</h2>
 Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
+You can check on my website at https://susiehgt.github.io/
 </div>
 
 <br>
@@ -28,7 +29,6 @@ Hi, my name is Susie. I am a bioinformatician learning web development and softw
 the knoledge I acquired during my university years.  </p>
 </div>
 
-You can check on my website located at: https://susiehgt.github.io/
 
 Have a nice day!
 
