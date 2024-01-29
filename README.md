@@ -8,7 +8,7 @@
   Hi, my name is Susie. I am a bioinformatician learning web development and software engineering.
 
   
-  You can check on my website at https://susiehgt.github.io/
+  You can check on my [website](https://susiehgt.github.io/)
 </div>
 <br>
 <div align="center">
