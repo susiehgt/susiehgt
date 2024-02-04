@@ -52,7 +52,7 @@
   <img
     src="https://readme-typing-svg.herokuapp.com/?color=E97451%0A&size=25&center=true&vCenter=true&width=433&height=75&lines=See+you+on+my+website!;"
   />
-
+</div>
 <i>Widgets credits to
   [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
 <br>
